@@ -1,0 +1,25 @@
+.red-background, .big-font{
+
+    font-family: "Verdana", "DejaVu Sans",sans-serif;
+    background-color: rgba(251, 146, 150, 0.8);
+    font-size: 18px;
+}
+
+.big-font {
+
+    font-size: 24px;
+}
+
+
+#num2{
+
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#num4{
+
+    background-color: #56ea5b;
+    font-size: 24px;
+    font-weight: bold;
+}
